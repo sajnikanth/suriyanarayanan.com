@@ -10,5 +10,5 @@ Static website for suriyanarayanan.com
 
 - **Platform:** Cloudflare Pages
 - **Repo:** github.com/sajnikanth/suriyanarayanan.com (main branch, auto-deploys on push)
-- **Preview URL:** https://suriyanarayanan.com.pages.dev
+- **Preview URL:** https://suriyanarayanan-com.pages.dev/
 - **Live URL:** https://suriyanarayanan.com
